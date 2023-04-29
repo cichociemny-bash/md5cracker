@@ -7,4 +7,4 @@ To jest cracker do łamania hashy w md5! napisany jest w pythonie zalecam użyci
 
 2. następnie przejdź do katalogu: cd md5cracker
 
-3. wgraj do systemu: chmod +x install.sh && bash install.sh
+3. wgraj do systemu: chmod +x install.sh && bash install.sh  ##to samo jest w pliku JAK_ZAINSTALOWAĆ
